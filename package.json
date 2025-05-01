@@ -25,7 +25,8 @@
     "pg": "^8.8.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-router-dom": "^6.0.0",
+    "react-router-dom": "^6.30.0",
+    "sharp": "^0.34.1",
     "styled-components": "^6.0.0"
   },
   "devDependencies": {
